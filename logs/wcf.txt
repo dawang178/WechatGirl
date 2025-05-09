@@ -1,0 +1,83 @@
+[2025-03-31 17:02:42.952] [error] [WCF] [spy.cpp::27::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.51
+[2025-04-15 22:06:35.152] [error] [WCF] [spy.cpp::27::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.51
+[2025-04-15 22:09:35.467] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-15 22:09:35.468] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-15 22:09:35.472] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-15 22:09:41.924] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-15 22:09:41.929] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-15 22:09:41.929] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 20:40:11.659] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 20:40:11.659] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 20:40:11.661] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 20:45:25.183] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 20:45:25.183] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 20:45:25.185] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 20:47:03.446] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 20:47:03.446] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 20:47:03.447] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 20:48:43.219] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 20:48:43.219] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 20:48:43.221] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 20:52:24.913] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 20:52:24.913] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 20:52:24.915] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:21:17.293] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 22:21:17.293] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 22:21:17.294] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:21:52.258] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 22:21:52.258] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 22:21:52.259] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:32:21.528] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 22:32:21.528] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 22:32:21.529] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:45:07.715] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 22:45:07.719] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 22:45:07.719] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 22:45:13.671] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 22:45:13.671] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 22:45:13.673] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:48:27.433] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 22:48:27.433] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 22:48:27.435] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 22:57:42.490] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 22:57:42.495] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 22:57:42.495] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:02:28.964] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:02:28.964] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:02:28.966] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:04:32.493] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 23:04:32.497] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 23:04:32.497] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:04:47.485] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:04:47.485] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:04:47.487] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:07:28.671] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 23:07:28.675] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 23:07:28.675] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:07:46.978] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:07:46.978] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:07:46.979] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:10:39.988] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:10:39.989] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:10:39.990] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:15:12.376] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 23:15:12.380] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 23:15:12.380] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:16:35.968] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:16:35.968] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:16:35.970] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:18:37.874] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 23:18:37.878] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 23:18:37.878] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:19:38.291] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:19:38.291] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:19:38.292] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-16 23:22:54.596] [error] [WCF] [rpc_server.cpp::333::RpcServer::run_rpc_server] cmdSock-nng_recv error: Object closed
+[2025-04-16 23:22:54.600] [info] [WCF] [rpc_server.cpp::123::RpcServer::stop] RPC 服务已停止
+[2025-04-16 23:22:54.600] [warning] [WCF] [rpc_server.cpp::101::RpcServer::stop] RPC 服务未运行
+[2025-04-16 23:24:00.347] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-16 23:24:00.347] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-16 23:24:00.349] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086
+[2025-04-20 17:12:49.343] [info] [WCF] [spy.cpp::32::Spy::Init] WCF 支持版本: 3.9.12.17，当前版本: 3.9.12.17
+[2025-04-20 17:12:49.344] [info] [WCF] [rpc_server.cpp::94::RpcServer::start] RPC 服务器成功启动，监听端口: 10086
+[2025-04-20 17:12:49.346] [info] [WCF] [rpc_server.cpp::324::RpcServer::run_rpc_server] CMD Server listening on tcp://0.0.0.0:10086

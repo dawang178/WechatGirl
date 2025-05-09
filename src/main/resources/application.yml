@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: WeChatGirl
+  ai:
+    dashscope:
+      api-key: ${ALIBABA_API_KEY}
+      chat:
+        options:
+          model: qwen-plus
+wechat-girl:
+  read-chat-memory: true
+  persona: 林悦.txt
